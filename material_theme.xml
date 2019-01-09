@@ -1,0 +1,16 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="true" />
+    <option name="treeFontSizeEnabled" value="true" />
+    <option name="tabsHeight" value="36" />
+    <option name="accentColor" value="2979ff" />
+    <option name="selectedTheme" value="ONE_LIGHT" />
+    <option name="userId" value="8e6ce69:16825ed0a8e:-8000" />
+    <option name="version" value="3.3.0" />
+  </component>
+</application>
