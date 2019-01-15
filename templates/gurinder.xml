@@ -1,0 +1,9 @@
+<templateSet group="gurinder">
+  <template name="@test" value="/** @test */&#10;public function $var0$()&#10;{&#10;    $end$&#10;}" description="PHP Test" toReformat="false" toShortenFQNames="true">
+    <variable name="var0" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
