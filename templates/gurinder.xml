@@ -35,4 +35,13 @@
       <option name="XML" value="false" />
     </context>
   </template>
+  <template name="&amp;resRoutes" value="Route::get('/$VAR0$', '$VAR2$@create')-&gt;name('$VAR3$.index');&#10;Route::get('/$VAR0$/create', '$VAR2$@create')-&gt;name('$VAR3$.create');&#10;Route::post('/$VAR0$', '$VAR2$@store')-&gt;name('$VAR3$.store');&#10;Route::get('/$VAR0$/{$VAR1$}', '$VAR2$@show')-&gt;name('$VAR3$.show');&#10;Route::get('/$VAR0$/{$VAR1$}/edit', '$VAR2$@edit')-&gt;name('$VAR3$.edit');&#10;Route::put('/$VAR0$/{$VAR1$}', '$VAR2$@update')-&gt;name('$VAR3$.update');&#10;Route::delete('/$VAR0$/{$VAR1$}', '$VAR2$@destroy')-&gt;name('$VAR3$.destroy');$END$" description="Resource Route" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR0" expression="firstWord(String)" defaultValue="'photos'" alwaysStopAt="true" />
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
