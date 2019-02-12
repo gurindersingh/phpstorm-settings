@@ -6,7 +6,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="jcon" value="console.log($end$);" description="console.log()" toReformat="false" toShortenFQNames="true">
+  <template name="jcon" value="console.log($end$)" description="console.log()" toReformat="false" toShortenFQNames="true">
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CoffeeScript" value="true" />
