@@ -13,6 +13,7 @@
     <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
   <template name="input" value="&lt;input type=&quot;$VAR0$&quot;&gt;" description="&lt;input type=&quot;...&quot;&gt;" toReformat="true" toShortenFQNames="true">
