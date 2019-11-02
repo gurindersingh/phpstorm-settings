@@ -2,6 +2,8 @@
   <component name="MaterialThemeConfig">
     <option name="accentMode" value="true" />
     <option name="compactDropdowns" value="true" />
+    <option name="darkTitleBar" value="true" />
+    <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
@@ -12,7 +14,7 @@
     <option name="treeFontSizeEnabled" value="true" />
     <option name="upperCaseButtons" value="false" />
     <option name="tabsHeight" value="30" />
-    <option name="accentColor" value="79cb60" />
+    <option name="accentColor" value="038ccb" />
     <option name="selectedTheme" value="GITHUB" />
     <option name="userId" value="8e6ce69:16825ed0a8e:-8000" />
     <option name="version" value="4.5.2" />
